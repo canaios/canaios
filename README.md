@@ -21,4 +21,4 @@
    <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
    <img style="width: 40px;" alt="terminal" src="https://user-images.githubusercontent.com/76584961/216279126-7cfa9d77-554a-4753-a600-5e6166074248.png">
 </p>
-</p>ca
+</p>
